@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wook/Learn/exercism-cpp/reverse-string/reverse_string.cpp
+reverse_string.h
+/home/wook/Learn/exercism-cpp/reverse-string/reverse_string.h
+
+/home/wook/Learn/exercism-cpp/reverse-string/reverse_string.h
+iostream
+-
+
